@@ -1,5 +1,13 @@
 # Pupil-Reflex-AI
 
+[관련 dataset](https://ieee-dataport.org/documents/independent-bilateral-eye-stimulation-gaze-pattern-recognition-based-steady-state-pupil
+-> data set 
+
+https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0013697325
+-> 관련 논문 device 동공반사 인지)
+
+
+
 1. CNN(Convolutional Neural Network) 모델 선정 이유
 CNN은 이미지 데이터 처리를 위해 설계된 모델로, 다음과 같은 특징 때문에 적합합니다:
 
